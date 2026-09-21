@@ -22,8 +22,8 @@ $EM_CONF[$_EXTKEY] = [
     'uploadfolder' => 0,
     'createDirs' => '',
     'clearCacheOnLoad' => 1,
-    'author' => 'Mindbox GmbH',
-    'author_email' => 'it@mindbox.de',
-    'author_company' => 'mbx',
+    'author' => 'zebra white GmbH',
+    'author_email' => 'it@zebra.de',
+    'author_company' => 'zebra white GmbH',
     'version' => '1.0.0',
 ];
